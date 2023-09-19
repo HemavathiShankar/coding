@@ -27,6 +27,7 @@ public class StreamApiApplication {
 	list.add(new Employee("alpha",6000,"IT", List.of("prject1","project2")));
 	list.add(new Employee("betta",8000,"HR", List.of("ibm","dell")));
 	list.add(new Employee("gamma",17000, "IT",List.of("ibm","dell")));
+	list.add(new Employee("kushi",2000,"EC",List.of("IBM","Harman")));
 	
 	
 	
